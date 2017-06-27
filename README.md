@@ -24,7 +24,7 @@
 
 ## Installation
 ```
-$ git clone git@github.com:/remyam/react-project.git
+$ git clone https://github.com/remyam/react-project.git
 $ cd react-project
 $ npm install
 ```
