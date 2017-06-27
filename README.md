@@ -24,8 +24,8 @@
 
 ## Installation
 ```
-$ git clone git@github.com:ajaykumaryadav/react-bootstrap.git
-$ cd react-bootstrap
+$ git clone git@github.com:/remyam/react-project.git
+$ cd react-project
 $ npm install
 ```
 ## Development
